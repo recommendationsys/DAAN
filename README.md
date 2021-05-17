@@ -12,7 +12,7 @@ python = 3.6
 
 Tensorflow = 1.0.0
 
-# command
+# To run the experiments:
 
 `python DAAN.py`
 
