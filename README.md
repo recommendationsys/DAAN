@@ -10,7 +10,7 @@ Huiting Liu, Lingling Guo, Peipei Li, Peng Zhao, Xindong Wu. Collaborative Filte
 
 python = 3.6
 
-Tensorflow = 1.0.0
+Tensorflow = 1.10.0
 
 # To run the experiments:
 
